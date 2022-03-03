@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ScienceOwl13
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Swift,
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 Discord -> @ScienceOwl13#9506
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning Python.
+- 💞️ I’ve some knowledge about C#, HTML & CSS and Swift.
 
 <!---
 ScienceOwl13/ScienceOwl13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
